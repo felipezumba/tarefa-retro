@@ -1,0 +1,31 @@
+body{
+    background-image: url("typewriter.jpg");
+    background-attachment: fixed;
+    font-family: 'Dosis', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.conteudo{
+    margin: 75vh 0;
+}
+footer{
+    color: black;
+}
+main {
+    flex: 1 0 auto;
+}
+.footer-copyright{
+    color: black;
+}
+#citacao{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+}
+#cidade{
+    color: black;
+}
+#copy{
+    color: black;
+}
